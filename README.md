@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Augustine_Jibs
+- 👋 Hi, I’m Augustine Jibs
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
