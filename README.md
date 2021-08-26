@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Augustine Jibs
-- 👀 I’m interested in computer programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Augustine Jibunoh
+- 👀 I’m interested in Computer Programming
+- 🌱 I’m currently learning Python Language
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ...
 
 <!---
